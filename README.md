@@ -1,3 +1,4 @@
 # primeiroappflutter
 
-Desafio Dio.me, Subindo o Seu Projeto Flutter no GitHub.
+Desafio Dio.me.
+- Subindo meu primeiro Projeto Flutter no GitHub.
